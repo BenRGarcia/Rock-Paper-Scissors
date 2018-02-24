@@ -6,6 +6,8 @@
 </template>
 
 <script>
+import rps from './assets/javascript/rps.js'
+
 export default {
   name: 'App'
 }
