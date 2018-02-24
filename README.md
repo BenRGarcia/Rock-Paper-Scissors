@@ -1,21 +1,13 @@
-# rock-paper-scissors
+# Rock Paper Scissors
 
-> A Vue.js project
+> A Vue.js CLI webpack project using firebase, bootstrap v4
 
-## Build Setup
+Click [here](https://benrgarcia.github.io/Rock-Paper-Scissors/) to see the live site
 
-``` bash
-# install dependencies
-npm install
+## Description
 
-# serve with hot reload at localhost:8080
-npm run dev
+* Classic 'Rock Paper Scissors' game, 2 person online multiplayer
 
-# build for production with minification
-npm run build
+* Online chat
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+* OAuth 2.0: Google, Facebook, GitHub
