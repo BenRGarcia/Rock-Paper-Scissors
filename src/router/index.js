@@ -28,3 +28,6 @@ export default new Router({
     }*/
   ]
 })
+
+// https://medium.com/codingthesmartway-com-blog/vue-js-routing-with-vue-router-4c428fabb078
+// https://router.vuejs.org/en/
